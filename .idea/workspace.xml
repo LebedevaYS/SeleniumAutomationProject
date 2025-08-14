@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e3198d2-647b-46d9-9284-701a0a96d95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LoginTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/DragdropPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/DragdropPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/lebed/IdeaProjects/NewProjectForTesting/src/test/java/testng.xml.executor": "Run",
     "TestNG.LoginTestNG.executor": "Run",
     "git-widget-placeholder": "feature/testng",
     "ignore.virus.scanning.warn.message": "true",
@@ -57,32 +63,17 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "JavaScript.Libraries",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lebed\IdeaProjects\NewProjectForTesting\src" />
       <recent name="C:\Users\lebed\IdeaProjects\NewProjectJandex\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTestNG">
-    <configuration name="AdvancedActionsTest.testAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NewProjectForTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.AdvancedActionsTest" />
-      <option name="METHOD_NAME" value="testAlert" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/lebed/IdeaProjects/NewProjectForTesting/src/test/java/testng.xml">
     <configuration name="AdvancedActionsTest.testDragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NewProjectForTesting" />
       <extension name="coverage">
@@ -131,6 +122,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/lebed/IdeaProjects/NewProjectForTesting/src/test/java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewProjectForTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewProjectForTesting" />
       <extension name="coverage">
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/lebed/IdeaProjects/NewProjectForTesting/src/test/java/testng.xml" />
         <item itemvalue="TestNG.LoginTestNG" />
         <item itemvalue="JUnit.AdvancedActionsTest.testNewTab" />
         <item itemvalue="JUnit.AdvancedActionsTest.testDragAndDrop" />
         <item itemvalue="JUnit.AdvancedActionsTest.testDragdrop" />
-        <item itemvalue="JUnit.AdvancedActionsTest.testAlert" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,10 @@
       <updated>1754999847811</updated>
       <workItem from="1754999848953" duration="16350000" />
       <workItem from="1755079865425" duration="306000" />
-      <workItem from="1755081793711" duration="1370000" />
+      <workItem from="1755081793711" duration="4304000" />
+      <workItem from="1755159800495" duration="98000" />
+      <workItem from="1755159967445" duration="805000" />
+      <workItem from="1755160793297" duration="1616000" />
     </task>
     <servers />
   </component>

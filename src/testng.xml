@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+
+    <!-- Можем задать параметры для тестов -->
+    <parameter name="browser" value="chrome" />
+
+    <!-- Группа тестов -->
+    <test name="Login and Actions Tests">
+        <classes>
+            <class name="com.example.LoginTestNG" />
+            <class name="com.example.AdvancedActionsTestNG" />
+        </classes>
+    </test>
+
+</suite>
