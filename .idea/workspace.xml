@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e3198d2-647b-46d9-9284-701a0a96d95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LoginHerokuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LoginHerokuTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/ProfileHerokuPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/LoginHerokuTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/LoginHerokuTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/lebed/IdeaProjects/NewProjectForTesting/src/test/java/testng.xml.executor": "Run",
+    "TestNG.LoginHerokuTestNG.executor": "Run",
     "TestNG.LoginTestNG.executor": "Run",
     "git-widget-placeholder": "feature/testng",
     "ignore.virus.scanning.warn.message": "true",
@@ -180,7 +180,7 @@
       <workItem from="1755081793711" duration="4304000" />
       <workItem from="1755159800495" duration="98000" />
       <workItem from="1755159967445" duration="805000" />
-      <workItem from="1755160793297" duration="2893000" />
+      <workItem from="1755160793297" duration="7394000" />
     </task>
     <servers />
   </component>
