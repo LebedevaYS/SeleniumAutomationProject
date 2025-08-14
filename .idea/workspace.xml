@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e3198d2-647b-46d9-9284-701a0a96d95b" name="Changes" comment="" />
+    <list default="true" id="9e3198d2-647b-46d9-9284-701a0a96d95b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/LoginTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -37,16 +44,20 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "TestNG.LoginTestNG.executor": "Run",
+    "git-widget-placeholder": "feature/testng",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/lebed/IdeaProjects/NewProjectForTesting",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/lebed/IdeaProjects/NewProjectJandex/src/main/java/com/example/Main.java",
-    "project.structure.last.edited": "Global Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +66,7 @@
       <recent name="C:\Users\lebed\IdeaProjects\NewProjectJandex\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AdvancedActionsTest.testNewTab">
+  <component name="RunManager" selected="TestNG.LoginTestNG">
     <configuration name="AdvancedActionsTest.testAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NewProjectForTesting" />
       <extension name="coverage">
@@ -104,22 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdvancedActionsTest.testDropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NewProjectForTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.AdvancedActionsTest" />
-      <option name="METHOD_NAME" value="testDropdown" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AdvancedActionsTest.testNewTab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NewProjectForTesting" />
       <extension name="coverage">
@@ -136,13 +131,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewProjectForTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.LoginTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTestNG" />
         <item itemvalue="JUnit.AdvancedActionsTest.testNewTab" />
         <item itemvalue="JUnit.AdvancedActionsTest.testDragAndDrop" />
         <item itemvalue="JUnit.AdvancedActionsTest.testDragdrop" />
         <item itemvalue="JUnit.AdvancedActionsTest.testAlert" />
-        <item itemvalue="JUnit.AdvancedActionsTest.testDropdown" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +175,7 @@
       <updated>1754999847811</updated>
       <workItem from="1754999848953" duration="16350000" />
       <workItem from="1755079865425" duration="306000" />
+      <workItem from="1755081793711" duration="1370000" />
     </task>
     <servers />
   </component>
@@ -179,5 +192,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
